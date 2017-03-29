@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Plymouth and Cornwall Wing</string>
+    <string name="action_settings">Settings</string>
+    <string name="bNext">Next</string>
+    <string name="bSubmit">Submit Details</string>
+    <string name="yGroup">Choose your Year Group</string>
+    <string-array name="yearGroup">
+        <item>Year 7</item>
+        <item>Year 8</item>
+        <item>Year 9</item>
+        <item>Year 10</item>
+        <item>Year 11</item>
+        <item>Year 12</item>
+        <item>Year 13</item>
+        <item>N/A</item>
+    </string-array>
+    <string name="nothingSelected">Nothing Selected</string>
+    <string name="title_activity_output">OutputActivity</string>
+
+<string name="snackbar_str">This is a Snackbar</string>
+<string name="ToastActivity">Toast Messages</string>
+<string name="DialogActivity">Dialogs</string>
+<string name="SnackbarActivity">Snackbar Messages</string>
+<string name="NotificationsActivity">Notifications</string>
+<string name="FirstNameHint">First Name</string>
+<string name="LastNameHint">Last Name</string>
+<string name="LongMsg">This is a notification style that can contain a large amount of text. It works really well when you have a large amount of information
+    to display in the notification area and want the user to be able to expand the message to see all of the content.</string>
+</resources>
